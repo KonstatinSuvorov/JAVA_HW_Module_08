@@ -1,0 +1,7 @@
+{
+    "java.home": "G:/Java/JAVA_HW_Module_08/Task1",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/ejbunladdin/intellij-java-google-style.xml",
+    "java.import.gradle.enabled": true,
+    "java.import.maven.enabled": true
+}
